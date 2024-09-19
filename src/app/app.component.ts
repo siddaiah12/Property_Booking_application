@@ -9,5 +9,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'real_estate_application';
+  title = 'real_estate_property_booking_application';
 }
